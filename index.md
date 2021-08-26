@@ -2,9 +2,9 @@
 
 
 >爱达杂货铺现用域名：[https://adzhp.cn/](https://adzhp.cn/)（爱达杂货铺拼音首字母.cn）   
->
 >备用域名：[https://adzhp.com/](https://adzhp.com/)（爱达杂货铺拼音首字母.com）
->
+
+
 ------
 
 ### 如果网页无法访问，请关注公众号获取最新消息！
