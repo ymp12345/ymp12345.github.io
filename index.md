@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎来到爱达杂货铺网址页
 
-You can use the [editor on GitHub](https://github.com/ymp12345/ymp12345.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
