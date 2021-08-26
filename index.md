@@ -1,35 +1,12 @@
 ## 欢迎来到爱达杂货铺网址页
 
 
+>爱达杂货铺现用域名：[https://adzhp.cn/](https://adzhp.cn/)（爱达杂货铺拼音首字母.cn）
+>备用域名：[https://adzhp.com/](https://adzhp.com/)（爱达杂货铺拼音首字母.com）
+>
+------
 
-### Markdown
+###如果网页无法访问，请关注公众号获取最新消息！
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![ADZHP 公众号](https://github.com/ymp12345/ymp12345.github.io/blob/main/1552914289-qrcode_for_gh_3982ad2ffa95_258.jpg)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ymp12345/ymp12345.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
